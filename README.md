@@ -18,15 +18,7 @@ iv align="center">
 
 ## 🗺️ Learning Path
 
-<p align="center">
-  <img src="https://img.shields.io/badge/1-Beginner-2EA44F?style=for-the-badge" />
-  ➜
-  <img src="https://img.shields.io/badge/2-Intermediate-F2C94C?style=for-the-badge" />
-  ➜
-  <img src="https://img.shields.io/badge/3-Advanced-E74C3C?style=for-the-badge" />
-  ➜
-  <img src="https://img.shields.io/badge/4-Projects-8A2BE2?style=for-the-badge" />
-</p>
+
 
 | | Level | What I Practice | Status |
 |:---:|---|---|:---:|
